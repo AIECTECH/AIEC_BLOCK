@@ -22,7 +22,7 @@ Our Goals
 - **Run**: Execute *./startup.sh buildstart* to build the source code and run bottos chain
 - **Stop**: Execute *start  / stop* to stop  
 
-# Learn about Bottos
+# Learn about AIEC
 
 # License
 AIEC is GPLv3 licensed.
